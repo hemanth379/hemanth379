@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Faws-2749233&psig=AOvVaw1bHcLCV188iGSBRkOcJDrU&ust=1719400211238000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiz-47P9oYDFQAAAAAdAAAAABAE)"  />
+  <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png"  height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
